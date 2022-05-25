@@ -9,8 +9,8 @@ class Contato extends Model
     public function lista()
     {
         return (object) [
-            'nome'=>'guilherme',
-            'tel'=>'4533636363'
+            'nome'=>'Jairo',
+            'tel'=>'65992039283'
         ];
     }
 }
